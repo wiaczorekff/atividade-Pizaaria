@@ -1,0 +1,31 @@
+.bloco_txt{
+    background-color: rgba(255, 230, 0, 0.247);
+    text-align: center;
+    position: relative;
+    margin-top: 5%;
+    border-radius: 5%;
+
+}
+h2{
+    padding-top: 3%;
+}
+
+.propg{
+    width: 25%;
+    border-radius: 5%;
+}
+
+#botaoPeca{
+    margin-left: 50%;
+    width: auto;
+    height: auto;
+}
+.logoAbaixo{
+    border-radius: 45%;
+    width: 20%;
+    display: block;
+    margin: 0%;
+    margin-bottom: 1%;
+    border-bottom: 10%;
+    
+}

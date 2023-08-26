@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+}
+
+ul, li {
+    display: inline-block;
+    color: rgb(255, 0, 0);
+}
+
+a {
+    text-decoration: none;
+    margin-left: 16px;
+}
+
+.image_logo{
+    width: 12%;
+    border-radius: 50%;
+
+}

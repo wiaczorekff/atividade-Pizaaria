@@ -1,0 +1,19 @@
+
+.titulo-principal {
+    font-family: var(--font-borel);
+    font-size: var(--txt-large);
+    line-height: 36px;
+}
+
+.txt_small {
+    font-family: var(--font-borel);
+    font-size: var(--txt-small);
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.txt_medium{
+    font-family: var(--font-borel);
+    font-size: var(--txt-medium);
+    font-weight: 700;
+}

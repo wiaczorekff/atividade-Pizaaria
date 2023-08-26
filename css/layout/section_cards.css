@@ -1,0 +1,13 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap; /* Adicionado para que os elementos possam quebrar linha */
+    gap: 32px;
+    margin-left: 96px;
+    margin-top: 150px;
+}
+.image_card{
+    width: 100%; /* Imagem ocupará a largura total do cartão */
+    max-width: 250px; /* Tamanho máximo para a imagem */
+    height: auto; /* Manter a proporção da imagem */
+}
+

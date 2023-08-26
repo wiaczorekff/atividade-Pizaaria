@@ -1,0 +1,21 @@
+.card{
+    flex: 1; /* Cada cartão ocupará o espaço disponível */
+    min-width: 300px; /* Tamanho mínimo para o cartão */
+    max-width: 400px; /* Tamanho máximo para o cartão */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    gap: 16px;
+}
+.card_verde_menta{
+    background-color: mediumspringgreen;
+}
+.card_rosa_pastel{
+    background-color: pink;
+}
+.card_pessego{
+    background-color: peachpuff;
+}
+
